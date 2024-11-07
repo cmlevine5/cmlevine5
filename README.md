@@ -10,7 +10,7 @@
 #### Link to my portfolio page
 [portfolio page](https://cmlevine5.github.io/portfolio)
 
-
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 <!--
 **cmlevine5/cmlevine5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
